@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Runtime generated files
+*.db
+Logs/
